@@ -1,0 +1,30 @@
+{
+  "name": "fs-sitemap-generator",
+  "version": "1.0.0",
+  "description": "Tool for generating sitemap.xml based on folder structure",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joranquinten/wadm-js-client.git"
+  },
+  "keywords": [
+    "sitemap",
+    "ssr",
+    "javascript",
+    "nodejs",
+    "nuxtjs",
+    "nextjs"
+  ],
+  "author": "Joran Quinten <joran@joranquinten.nl>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joranquinten/fs-sitemap-generator/issues"
+  },
+  "homepage": "https://github.com/joranquinten/fs-sitemap-generator#readme",
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}

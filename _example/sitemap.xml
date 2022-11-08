@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>https://mockdomain.com</loc>
+        <lastmod>2022-11-08</lastmod>
+    </url>
+    <url>
+        <loc>https://mockdomain.com/about</loc>
+        <lastmod>2022-11-08</lastmod>
+    </url>
+    <url>
+        <loc>https://mockdomain.com/contact</loc>
+        <lastmod>2022-11-08</lastmod>
+    </url>
+    <url>
+        <loc>https://mockdomain.com/nested</loc>
+        <lastmod>2022-11-08</lastmod>
+    </url>
+    <url>
+        <loc>https://mockdomain.com/nested/article</loc>
+        <lastmod>2022-11-08</lastmod>
+    </url>
+</urlset>
