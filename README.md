@@ -1,7 +1,8 @@
 # FS Sitemap Generator
 
-## Table of Contents
+[Package on npm](https://www.npmjs.com/package/fs-sitemap-generator)
 
+## Table of Contents
 - [FS Sitemap Generator](#fs-sitemap-generator)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
@@ -23,6 +24,12 @@ In most cases this script can be executed as an additional command after the bui
 You need nodeJS to run the script (but you'd probably have it installed anyway). Also, create a file to execute (see `example.js`).
 
 ## Usage
+
+Install with the following command:
+
+```bash
+npm i fs-sitemap-generator
+```
 
 You should add the action of generating the sitemap after the SSR generation has taken place. You only need to do this on the deployment. In the example the contents of `example.js` would have been stored on `sitemap.js`.
 
