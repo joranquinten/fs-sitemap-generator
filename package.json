@@ -1,6 +1,6 @@
 {
   "name": "fs-sitemap-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tool for generating sitemap.xml based on folder structure",
   "main": "./src/index.js",
   "scripts": {
@@ -24,7 +24,7 @@
     "url": "https://github.com/joranquinten/fs-sitemap-generator/issues"
   },
   "homepage": "https://github.com/joranquinten/fs-sitemap-generator#readme",
-  "devDependencies": {
-    "jest": "^27.0.4"
+  "dependencies": {
+    "fs-sitemap-generator": "^1.0.0"
   }
 }
